@@ -1,0 +1,19 @@
+body{
+	background-image: url(../img/f9c9ba008e4ef9763c185e3c03e04764.jpg);
+	background-size: 100%;
+	text-align: center;
+}
+main{
+	width: 960px;
+	margin: auto;
+	background-color: rgba(190,190,190,0.7);
+
+}
+article{
+	background-color: rgba(195,195,195,0.7);
+	text-align: center;
+	padding: 15px;
+}
+
+
+

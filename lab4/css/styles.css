@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+body{
+	background-image: url(../img/внутренний-фон-зала-в-тренажерном-зале-или-фитнес-центре-полностью-164177900.jpg);
+	background-size: 100%;
+}
+main{
+	width: 960px;
+	margin: auto;
+}
+header{
+	height: 100px;
+    background-color: rgb(175,238,238);
+    position: relative;
+    padding: 15px;
+    font-family: 'Merriweather', serif;
+    font-size: 40px;
+    padding-left: 430px;
+}
+img{
+	position: absolute;
+	left: 15px;
+	top: 15px;
+}
+nav{
+	max-height: 80px;
+	background: #5CCCCC;
+}
+#menu{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#menu li{
+	padding: 10px;
+	display: inline-block;
+	border: solid blue 1px;
+}
+#menu li:hover{
+	background-color: rgb(255,198,150);
+	color:white;
+}
+article{
+	background-color: rgb(175,238,238);
+	text-align: left;
+	padding: 15px;
+}
+#p1{
+	background: white;
+	border: white 2px solid;
+	font-size: 18px;
+	color: grey;
+	padding: 10px;
+}
+#p2{
+	text-align: left;
+	font-family: courier new;
+	background: white;
+	color: grey;
+	font-size: 18px;
+	border: white 2px solid;
+	padding: 10px;
+}
+#p3{
+	background-image: url(../img/images.jpg);
+	background-size: 100%;
+	text-align: center;
+	font-size: 20px;
+	padding: 20px;
+	margin-left: 75px;
+	margin-right: 75px;
+	color: blue;
+}
+footer{
+	background: #5CCCCC;
+	min-height:100px;
+	text-align: center;
+	padding-top: 10px;
+}
+#p4{
+	text-align: left;
+	margin-left: 75px;
+	margin-right: 75px;
+	display: inline-block;
+	border: solid #5CCCCC 1px;
+}
+#p5{
+	text-align: left;
+	margin-left: 75px;
+	margin-right: 75px;
+	display: inline-block;
+	border: solid #5CCCCC 1px;
+}
